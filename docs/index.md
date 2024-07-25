@@ -40,6 +40,214 @@ _LSE ID: 202379847_
         - Reggaeton a popular music category in music is a fusion of Jamaican dancehall and reggae. It has influences from both hip hop and classical rap. I did not know that this category existed until starting this data analysis. 
         - Sad sierrono is the only emotional genre listed in all the categories. It was the fourth most popular music genre with 15 different artists.
 
+![Fig. 1 --](<iframe src='about:blank' style='border:none !important;' width='600' height='400' srcdoc="&lt;html lang=&quot;en&quot;>
+   &lt;head>
+       &lt;meta charset=&quot;UTF-8&quot;>
+       &lt;style> html, body { margin: 0; overflow: hidden; } &lt;/style>
+       &lt;script type=&quot;text/javascript&quot; data-lets-plot-script=&quot;library&quot; src=&quot;https://cdn.jsdelivr.net/gh/JetBrains/lets-plot@v4.3.3/js-package/distr/lets-plot.min.js&quot;>&lt;/script>
+   &lt;/head>
+   &lt;body>
+          &lt;div id=&quot;5D5jyv&quot;>&lt;/div>
+   &lt;script type=&quot;text/javascript&quot; data-lets-plot-script=&quot;plot&quot;>
+       var plotSpec={
+&quot;data&quot;:{
+&quot;category&quot;:[&quot;pop&quot;,&quot;rap&quot;,&quot;urbano latino&quot;,&quot;reggaeton&quot;,&quot;sad sierreno&quot;,&quot;corrido&quot;,&quot;sierreno&quot;,&quot;musica mexicana&quot;,&quot;corridos tumbados&quot;,&quot;norteno&quot;,&quot;reggaeton colombiano&quot;,&quot;argentine hip hop&quot;,&quot;reggaeton flow&quot;,&quot;banda&quot;,&quot;musica chihuahuense&quot;,&quot;urbano mexicano&quot;],
+&quot;count&quot;:[96.0,50.0,17.0,15.0,14.0,13.0,13.0,12.0,12.0,11.0,10.0,10.0,9.0,9.0,8.0,7.0]
+},
+&quot;mapping&quot;:{
+},
+&quot;data_meta&quot;:{
+},
+&quot;guides&quot;:{
+&quot;fill&quot;:&quot;none&quot;
+},
+&quot;ggtitle&quot;:{
+&quot;text&quot;:&quot;Featured Playlist of Mexico by Genre&quot;
+},
+&quot;theme&quot;:{
+&quot;axis_title_x&quot;:{
+&quot;size&quot;:20.0,
+&quot;blank&quot;:false
+},
+&quot;axis_title_y&quot;:{
+&quot;size&quot;:20.0,
+&quot;blank&quot;:false
+},
+&quot;plot_title&quot;:{
+&quot;face&quot;:&quot;bold&quot;,
+&quot;size&quot;:18.0,
+&quot;hjust&quot;:0.1,
+&quot;blank&quot;:false
+}
+},
+&quot;kind&quot;:&quot;plot&quot;,
+&quot;scales&quot;:[{
+&quot;name&quot;:&quot;Count&quot;,
+&quot;aesthetic&quot;:&quot;y&quot;
+},{
+&quot;name&quot;:&quot;Category&quot;,
+&quot;aesthetic&quot;:&quot;x&quot;
+}],
+&quot;layers&quot;:[{
+&quot;geom&quot;:&quot;bar&quot;,
+&quot;stat&quot;:&quot;identity&quot;,
+&quot;mapping&quot;:{
+&quot;x&quot;:&quot;category&quot;,
+&quot;y&quot;:&quot;count&quot;,
+&quot;fill&quot;:&quot;category&quot;
+},
+&quot;data_meta&quot;:{
+},
+&quot;data&quot;:{
+}
+}],
+&quot;metainfo_list&quot;:[]
+};
+       var plotContainer = document.getElementById(&quot;5D5jyv&quot;);
+       LetsPlot.buildPlotFromProcessedSpecs(plotSpec, -1, -1, plotContainer);
+   &lt;/script>
+   &lt;/body>
+&lt;/html>"></iframe>)
+
+![Fig. 2 --](<iframe src='about:blank' style='border:none !important;' width='600' height='400' srcdoc="&lt;html lang=&quot;en&quot;>
+   &lt;head>
+       &lt;meta charset=&quot;UTF-8&quot;>
+       &lt;style> html, body { margin: 0; overflow: hidden; } &lt;/style>
+       &lt;script type=&quot;text/javascript&quot; data-lets-plot-script=&quot;library&quot; src=&quot;https://cdn.jsdelivr.net/gh/JetBrains/lets-plot@v4.3.3/js-package/distr/lets-plot.min.js&quot;>&lt;/script>
+   &lt;/head>
+   &lt;body>
+          &lt;div id=&quot;U664l3&quot;>&lt;/div>
+   &lt;script type=&quot;text/javascript&quot; data-lets-plot-script=&quot;plot&quot;>
+       var plotSpec={
+&quot;data&quot;:{
+&quot;category&quot;:[&quot;pop&quot;,&quot;rap&quot;,&quot;r&amp;b&quot;,&quot;hip hop&quot;,&quot;big room&quot;,&quot;edm&quot;,&quot;house&quot;,&quot;uk dance&quot;],
+&quot;count&quot;:[151.0,57.0,9.0,8.0,7.0,7.0,6.0,6.0]
+},
+&quot;mapping&quot;:{
+},
+&quot;data_meta&quot;:{
+},
+&quot;guides&quot;:{
+&quot;fill&quot;:&quot;none&quot;
+},
+&quot;ggtitle&quot;:{
+&quot;text&quot;:&quot;Featured Playlist of United Kingdom by Genre&quot;
+},
+&quot;theme&quot;:{
+&quot;axis_title_x&quot;:{
+&quot;size&quot;:20.0,
+&quot;blank&quot;:false
+},
+&quot;axis_title_y&quot;:{
+&quot;size&quot;:20.0,
+&quot;blank&quot;:false
+},
+&quot;plot_title&quot;:{
+&quot;face&quot;:&quot;bold&quot;,
+&quot;size&quot;:18.0,
+&quot;hjust&quot;:0.1,
+&quot;blank&quot;:false
+}
+},
+&quot;kind&quot;:&quot;plot&quot;,
+&quot;scales&quot;:[{
+&quot;name&quot;:&quot;Count&quot;,
+&quot;aesthetic&quot;:&quot;y&quot;
+},{
+&quot;name&quot;:&quot;Category&quot;,
+&quot;aesthetic&quot;:&quot;x&quot;
+}],
+&quot;layers&quot;:[{
+&quot;geom&quot;:&quot;bar&quot;,
+&quot;stat&quot;:&quot;identity&quot;,
+&quot;mapping&quot;:{
+&quot;x&quot;:&quot;category&quot;,
+&quot;y&quot;:&quot;count&quot;,
+&quot;fill&quot;:&quot;category&quot;
+},
+&quot;data_meta&quot;:{
+},
+&quot;data&quot;:{
+}
+}],
+&quot;metainfo_list&quot;:[]
+};
+       var plotContainer = document.getElementById(&quot;U664l3&quot;);
+       LetsPlot.buildPlotFromProcessedSpecs(plotSpec, -1, -1, plotContainer);
+   &lt;/script>
+   &lt;/body>
+&lt;/html>"></iframe>)
+
+![Fig. 3 --](<iframe src='about:blank' style='border:none !important;' width='600' height='400' srcdoc="&lt;html lang=&quot;en&quot;>
+   &lt;head>
+       &lt;meta charset=&quot;UTF-8&quot;>
+       &lt;style> html, body { margin: 0; overflow: hidden; } &lt;/style>
+       &lt;script type=&quot;text/javascript&quot; data-lets-plot-script=&quot;library&quot; src=&quot;https://cdn.jsdelivr.net/gh/JetBrains/lets-plot@v4.3.3/js-package/distr/lets-plot.min.js&quot;>&lt;/script>
+   &lt;/head>
+   &lt;body>
+          &lt;div id=&quot;IuPodu&quot;>&lt;/div>
+   &lt;script type=&quot;text/javascript&quot; data-lets-plot-script=&quot;plot&quot;>
+       var plotSpec={
+&quot;data&quot;:{
+&quot;category&quot;:[&quot;pop&quot;,&quot;rap&quot;,&quot;r&amp;b&quot;,&quot;contemporary country&quot;,&quot;hip hop&quot;,&quot;alt z&quot;,&quot;country&quot;,&quot;bronx drill&quot;,&quot;alternative r&amp;b&quot;,&quot;atl hip hop&quot;,&quot;classic oklahoma country&quot;,&quot;modern rock&quot;,&quot;urban contemporary&quot;,&quot;detroit hip hop&quot;,&quot;modern country rock&quot;,&quot;country road&quot;,&quot;tennessee hip hop&quot;,&quot;southern hip hop&quot;,&quot;conscious hip hop&quot;],
+&quot;count&quot;:[142.0,99.0,10.0,9.0,8.0,7.0,7.0,7.0,7.0,6.0,6.0,6.0,6.0,6.0,6.0,6.0,6.0,6.0,6.0]
+},
+&quot;mapping&quot;:{
+},
+&quot;data_meta&quot;:{
+},
+&quot;guides&quot;:{
+&quot;fill&quot;:&quot;none&quot;
+},
+&quot;ggtitle&quot;:{
+&quot;text&quot;:&quot;Featured Playlist of United States by Genre&quot;
+},
+&quot;theme&quot;:{
+&quot;axis_title_x&quot;:{
+&quot;size&quot;:20.0,
+&quot;blank&quot;:false
+},
+&quot;axis_title_y&quot;:{
+&quot;size&quot;:20.0,
+&quot;blank&quot;:false
+},
+&quot;plot_title&quot;:{
+&quot;face&quot;:&quot;bold&quot;,
+&quot;size&quot;:18.0,
+&quot;hjust&quot;:0.1,
+&quot;blank&quot;:false
+}
+},
+&quot;kind&quot;:&quot;plot&quot;,
+&quot;scales&quot;:[{
+&quot;name&quot;:&quot;Count&quot;,
+&quot;aesthetic&quot;:&quot;y&quot;
+},{
+&quot;name&quot;:&quot;Category&quot;,
+&quot;aesthetic&quot;:&quot;x&quot;
+}],
+&quot;layers&quot;:[{
+&quot;geom&quot;:&quot;bar&quot;,
+&quot;stat&quot;:&quot;identity&quot;,
+&quot;mapping&quot;:{
+&quot;x&quot;:&quot;category&quot;,
+&quot;y&quot;:&quot;count&quot;,
+&quot;fill&quot;:&quot;category&quot;
+},
+&quot;data_meta&quot;:{
+},
+&quot;data&quot;:{
+}
+}],
+&quot;metainfo_list&quot;:[]
+};
+       var plotContainer = document.getElementById(&quot;IuPodu&quot;);
+       LetsPlot.buildPlotFromProcessedSpecs(plotSpec, -1, -1, plotContainer);
+   &lt;/script>
+   &lt;/body>
+&lt;/html>"></iframe>)
+
+
 ## Future 
 - English Countries 
     - I would like to expand on my analysis of different English countries. I could look at all English-speaking countries such as Canada, Australia, and South Africa. 
@@ -51,3 +259,5 @@ _LSE ID: 202379847_
 
 - Analyze pop genres
     - In our analysis we simplified the pop genres category by changing every line that contains pop with simply pop using `df_copy.loc[df_copy['categories'].str.contains('pop', case=False, na=False), 'categories'] = 'pop'`. If we were just to plot the genres of pop, how would our analysis change by country. Which type of pop would be the most popular? 
+
+
