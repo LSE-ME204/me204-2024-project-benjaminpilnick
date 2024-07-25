@@ -40,7 +40,7 @@ _LSE ID: 202379847_
         - Reggaeton a popular music category in music is a fusion of Jamaican dancehall and reggae. It has influences from both hip hop and classical rap. I did not know that this category existed until starting this data analysis. 
         - Sad sierrono is the only emotional genre listed in all the categories. It was the fourth most popular music genre with 15 different artists.
 
-![Fig. 1 --](<iframe src='about:blank' style='border:none !important;' width='600' height='400' srcdoc="&lt;html lang=&quot;en&quot;>
+(<iframe src='about:blank' style='border:none !important;' width='600' height='400' srcdoc="&lt;html lang=&quot;en&quot;>
    &lt;head>
        &lt;meta charset=&quot;UTF-8&quot;>
        &lt;style> html, body { margin: 0; overflow: hidden; } &lt;/style>
@@ -109,7 +109,7 @@ _LSE ID: 202379847_
    &lt;/body>
 &lt;/html>"></iframe>)
 
-![Fig. 2 --](<iframe src='about:blank' style='border:none !important;' width='600' height='400' srcdoc="&lt;html lang=&quot;en&quot;>
+(<iframe src='about:blank' style='border:none !important;' width='600' height='400' srcdoc="&lt;html lang=&quot;en&quot;>
    &lt;head>
        &lt;meta charset=&quot;UTF-8&quot;>
        &lt;style> html, body { margin: 0; overflow: hidden; } &lt;/style>
@@ -178,7 +178,7 @@ _LSE ID: 202379847_
    &lt;/body>
 &lt;/html>"></iframe>)
 
-![Fig. 3 --](<iframe src='about:blank' style='border:none !important;' width='600' height='400' srcdoc="&lt;html lang=&quot;en&quot;>
+(<iframe src='about:blank' style='border:none !important;' width='600' height='400' srcdoc="&lt;html lang=&quot;en&quot;>
    &lt;head>
        &lt;meta charset=&quot;UTF-8&quot;>
        &lt;style> html, body { margin: 0; overflow: hidden; } &lt;/style>
