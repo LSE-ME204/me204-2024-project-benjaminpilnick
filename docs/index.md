@@ -30,7 +30,7 @@ _LSE ID: 202379847_
 ## Key Findings: 
 - Once data was cleaned using the Spotify API, and a database named playlist was created and loaded we graphed each country with their corresponding categories by count. 
 - Main insights: 
-    - According to Figure 1, 2, and 3 he most popular categories of artists in the featured playlists of different countries (United States, Mexico, and United Kingdom) is clearly Pop with Rap following. 
+    - According to Figure 1, 2, and 3 the most popular categories of artists in the featured playlists of different countries (United States, Mexico, and United Kingdom) is clearly Pop with Rap following. 
         - Pop consists of multiple subgenres, so it does not surprise me that it is the most popular category. Moreover, pop was popular across multiple different countries which gives evidence that pop is one of the most popular genres of music to listen to regardless of location. Music lovers around the globe can connect through their music. 
         - Like Pop, rap was also a popular genre. And rap conssits of mulitple subgenres like hip-hop rap, southern rap, and UK rap to name a few. 
     - United States and United Kingdom had almost identical data for their most popular categories(Figure 1 and 2)This gives light that the type of music listsened to in English countries are similar. This is a small sample size of only two countries. 
