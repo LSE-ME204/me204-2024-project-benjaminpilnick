@@ -22,7 +22,9 @@
   - Three dataframes were created. playlist_category, playlist_name, and country. The country dataframe contains the name of the country and their id, which corresponds to c*. Where * = 1,2, or 3. 
   - Note each of the dataframes in playlist_category, and playlist_name contain a column named country_id. Whatever country is loaded through the VPN, the whole column would be filled with that specific country. Thus, we need to specify what country code is being added. 
 - Note that when the dataframes are uploaded to sql, they are appending to each itself. i.e. the entire database is made up of three different dataframes which are different by their country id and category. 
-- I did it in the order of United Kingdom, United States, then Mexico. 
+- I did it in the order of United Kingdom, United States, then Mexico.
+- _Dataframes_ were uploded to sql using 'sql magic'. 
+    - `%reload_ext sql '/n' %config SqlMagic.autocommit=True`  
 
 # 🤖 **Generative AI Acknowledgement**
 This assignment was completed with the help of ChatGPT and GitHub Copilot.
