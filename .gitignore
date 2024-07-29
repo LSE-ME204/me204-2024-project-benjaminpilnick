@@ -1,2 +1,3 @@
 .cache
 credentials.json
+.DS_Store
