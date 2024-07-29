@@ -24,7 +24,7 @@
 - Note that when the dataframes are uploaded to sql, they are appending to each itself. i.e. the entire database is made up of three different dataframes which are different by their country id and category. 
 - I did it in the order of United Kingdom, United States, then Mexico.
 - _Dataframes_ were uploded to sql using 'SqlMagic'. 
-    - `%reload_ext sql \\  %config SqlMagic.autocommit=True`  
+    - `%reload_ext sql %config SqlMagic.autocommit=True`  
     - To load SqlMagic if not done so then use `%load_ext sql` 
 
 # 🤖 **Generative AI Acknowledgement**
